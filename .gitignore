@@ -5,6 +5,7 @@ CMakeUserPresets.json
 
 .vscode/
 .idea/
+.cache/
 
 *.o
 *.obj
